@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.exe
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.deps.json
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.runtimeconfig.json
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.runtimeconfig.dev.json
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.dll
+C:\Users\User\Downloads\BoulderDash\bin\Debug\netcoreapp3.1\BoulderDash.pdb
+C:\Users\User\Downloads\BoulderDash\obj\Debug\netcoreapp3.1\BoulderDash.csprojAssemblyReference.cache
+C:\Users\User\Downloads\BoulderDash\obj\Debug\netcoreapp3.1\BoulderDash.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BoulderDash\obj\Debug\netcoreapp3.1\BoulderDash.AssemblyInfo.cs
+C:\Users\User\Downloads\BoulderDash\obj\Debug\netcoreapp3.1\BoulderDash.dll
+C:\Users\User\Downloads\BoulderDash\obj\Debug\netcoreapp3.1\BoulderDash.pdb
